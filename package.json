@@ -1,0 +1,25 @@
+{
+  "name": "node-nl",
+  "version": "1.0.0",
+  "description": "Send a daily newsletter with NodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrwn211/node-nl.git"
+  },
+  "author": "Merwan Guerrib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrwn211/node-nl/issues"
+  },
+  "homepage": "https://github.com/Mrwn211/node-nl#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "nodemailer": "^6.3.1"
+  }
+}
